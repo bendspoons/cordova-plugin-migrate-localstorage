@@ -9,7 +9,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     <license>Apache 2.0</license>
     <keywords>ecosystem:cordova,cordova,cordova-ios,uiwebview,wkwebview,localstorage</keywords>
     <repo>https://github.com/bendspoons/cordova-plugin-migrate-localstorage.git</repo>
-    <issue>https://github.com/paulpatarinski/cordova-plugin-migrate-localstorage/issues/</issue>
+    <issue>https://github.com/bendspoons/cordova-plugin-migrate-localstorage/issues/</issue>
 
     <platform name="ios">
         <config-file target="config.xml" parent="/*">

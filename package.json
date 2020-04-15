@@ -9,7 +9,7 @@
   },
   "description": "Migrate LocalStorage data from UIWebView to WKWebView",
   "repository": "https://github.com/bendspoons/cordova-plugin-migrate-localstorage.git",
-  "issue": "https://github.com/paulpatarinski/cordova-plugin-migrate-localstorage/issues/",
+  "issue": "https://github.com/bendspoons/cordova-plugin-migrate-localstorage/issues/",
   "keywords": [
     "ecosystem:cordova",
     "cordova",
